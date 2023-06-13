@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "/usr/lib/jvm/jdk-17/",
+    "java.configuration.runtimes": [
+    {
+        "name": "JavaSE-11",
+        "path": "/usr/lib/jvm/jdk-17/",
+        "sources": "/usr/lib/jvm/jdk-17/lib/src.zip"
+    }
+]
+}
